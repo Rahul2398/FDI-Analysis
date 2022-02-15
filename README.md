@@ -13,3 +13,12 @@ Year-wise investment analysis
 Find key metrics and factors and show the meaningful relationships between attributes.
 ## DATASET 
 https://drive.google.com/drive/folders/1M5z7z1NmWar7y1eFs67orfjqHL0iSViL?usp=sharing
+## TECHNOLOGY
+Business Intelligence
+## DOMAIN
+Finance
+## PROGRAMMING LANGUAGE
+PYTHON
+## TOOLS
+Jupyter Notebook, Power Bi, MS Excel
+
