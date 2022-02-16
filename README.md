@@ -21,4 +21,8 @@ Finance
 PYTHON
 ## TOOLS
 Jupyter Notebook, Power Bi, MS Excel
+## LINKEDIN 
+https://www.linkedin.com/posts/rahul-gupta-0b10bb21b_analytics-project-investment-activity-6899702405550747649-XqpC
+## YOUTUBE
+https://youtu.be/SHI3D1e6ZyE
 
