@@ -1,4 +1,4 @@
-# FDI-Analysis
+# Investment Analytics
 ## OBJECTIVE 🎯
 To understand the Foreign direct investment in India for the last 17 years from 2000-01
 to 2016-17.
